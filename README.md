@@ -1,13 +1,5 @@
 # Hello fellow programmers! 📱
 
-
-Oh and here is my <ins>[personal website](https://personal-portfolio-bvg.pages.dev/about)</ins><sup>ver 2.0</sup>.
-
-### Hi there, I'm Ali Azlan Aziz 👋
-
-## I'm a developer!!
-
-
 <h2 align="center">Contact</h2>
 <p align="center">
 <a href="https://personal-portfolio-bvg.pages.dev/about">
