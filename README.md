@@ -1,22 +1,20 @@
 <h1> Hello fellow programmers! 🏴</h1>
-<br/>
+
 
 <p>
-Hello 👋, I am Ammar, a Software Engineer.
+   Hello 👋, I am Ammar, a Software Engineer.
 
-My passion lies in writing efficient, readable, and well-structured code. Creating new standards and bridging gaps in the field of Software Engineering is one of my goals in life. Get to know me a little better at my [**personal website**](https://personal-portfolio-bvg.pages.dev/about)! 🕸️
+   My passion lies in writing efficient, readable, and well-structured code. Creating new standards and bridging gaps in the field of Software Engineering is one of my    goals in life. Get to know me a little better at my [**personal website**](https://personal-portfolio-bvg.pages.dev/about)! 🕸️
 </p>
+
+<br/>
 
 <h2 align="left">Website and Socials</h2>
 <p align="left">
-<a href="https://personal-portfolio-bvg.pages.dev/about">
-   <img title="Personal Website" src="https://img.shields.io/badge/Personal Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-</p>
-
-<p align="left">
-  
-  
+   <a href="https://personal-portfolio-bvg.pages.dev/about">
+      <img title="Personal Website" src="https://img.shields.io/badge/Personal Website-black?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=80"/>
+   </a>
+   <br/>
   <a href="https://www.linkedin.com/in/muhammad-ammar-nasir-9b2193207/">
       <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=White"/>
   </a>
@@ -33,6 +31,8 @@ My passion lies in writing efficient, readable, and well-structured code. Creati
       <img title="Email" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<br/>
 
 <h2 align="left">Languages and Frameworks</h2>
 
