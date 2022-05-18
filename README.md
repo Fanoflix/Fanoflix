@@ -2,7 +2,7 @@
 
 
 <p>
-   Hello 👋, I am Ammar, a Software Engineer.
+   👋, I am Ammar, a Software Engineer.
 
    My passion lies in writing efficient, readable, and well-structured code. Creating new standards and bridging gaps in the field of Software Engineering is one of my    goals in life. Get to know me a little better at my [**personal website**](https://personal-portfolio-bvg.pages.dev/about)! 🕸️
 </p>
