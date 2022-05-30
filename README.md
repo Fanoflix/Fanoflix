@@ -34,7 +34,7 @@
 
 <br/>
 
-<h2 align="left">Languages and Frameworks</h2>
+<h2 align="left">Languages, Tools and Frameworks</h2>
 
 <p align="left">
          <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
