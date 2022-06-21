@@ -19,10 +19,6 @@
       <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=White"/>
   </a>
   
-  <a href="https://github.com/fanoflix">
-      <img title="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=White"/>
-  </a>
-  
   <a href="https://stackoverflow.com/users/16470281/muhammad-ammar">
       <img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-000000?style=for-the-badge&logo=stack%20overflow&logoColor=White"/>
   </a>
