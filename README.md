@@ -1,8 +1,8 @@
-<h1> Hello fellow programmers! 🏴</h1>
+<h1> Hello fellow programmers! 👋</h1>
 
 
 <p>
-   👋, I am Ammar, a Software Engineer.
+   I am Ammar, a Software Engineer.
 
    My passion lies in writing efficient, readable, and well-structured code. Creating new standards and bridging gaps in the field of Software Engineering is one of my    goals in life. Get to know me a little better at my [**personal website**](https://personal-portfolio-bvg.pages.dev/about)! 🕸️
 </p>
@@ -11,7 +11,7 @@
 
 <h2 align="left">Website and Socials</h2>
 <p align="left">
-   <a href="https://personal-portfolio-bvg.pages.dev/about">
+   <a href="https://ammarnasir.com/about">
       <img title="Personal Website" src="https://img.shields.io/badge/Personal Website-black?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=80"/>
    </a>
    <br/>
