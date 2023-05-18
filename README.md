@@ -2,9 +2,9 @@
 
 
 <p>
-   I am Ammar, a Software Engineer.
+   , a Software Engineer.
 
-  Hi, I'm a software engineer with a passion for building user-friendly and efficient software solutions. I spend most of time outside of work making small yet effective tools that would make my life, and by extension, other developers' lives easier! Get to know me a little better at my [**personal website**](https://ammarnasir.com/)! 🕸️
+  Hi, I am Ammar, a software engineer with a passion for building user-friendly and efficient software solutions. I spend most of time outside of work making small yet effective tools that would make my life, and by extension, other developers' lives easier! Get to know me a little better at my [**personal website**](https://ammarnasir.com/)! 🕸️
 </p>
 
 <br/>
