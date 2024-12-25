@@ -14,7 +14,7 @@
       <img title="ammarnasir.com | Personal Website" src="https://img.shields.io/badge/Personal Website - ammarnasir.com-black?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=80"/>
    </a>
    <br/>
-  <a href="https://www.linkedin.com/in/muhammad-ammar-nasir-9b2193207/">
+  <a href="https://www.linkedin.com/in/ammar-nasir/">
       <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=White"/>
   </a>
   
