@@ -3,13 +3,15 @@
 
 <p>
 
-  Hi, I am Ammar, a software engineer with a passion for building user-friendly and efficient software solutions. I spend most of time outside of work making small yet effective tools that would make my life, and by extension, other developers' lives easier! Get to know me a little better at my [**personal website**](https://ammarnasir.com/)! 🕸️
+  Hi, I am Ammar. Currently working at [Metal YC'23](https://www.ycombinator.com/companies/metal-2) as an early-hire Software Engineer. We're working on a product that will change the future of Fundraising!
+  
+  I spend most of time outside of work making small yet effective tools that would make my life, and by extension, other developers' lives easier! Get to know me a little better at my [**personal website**](https://ammarnasir.com/)! 🕸️
 </p>
 
 <br/>
 
 <h2 align="left">Website and Socials</h2>
-<p align="left">
+<div align="left">
    <a href="https://ammarnasir.com/about">
       <img title="ammarnasir.com | Personal Website" src="https://img.shields.io/badge/Personal Website - ammarnasir.com-black?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=80"/>
    </a>
@@ -17,15 +19,13 @@
   <a href="https://www.linkedin.com/in/ammar-nasir/">
       <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=White"/>
   </a>
-  
   <a href="https://stackoverflow.com/users/16470281/muhammad-ammar">
       <img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-000000?style=for-the-badge&logo=stack%20overflow&logoColor=White"/>
   </a>
-  
    <a href="mailto:majidammar428@gmail.com">
       <img title="Email" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
 
 <br/>
 
